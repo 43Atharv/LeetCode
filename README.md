@@ -32,4 +32,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/43Atharv/LeetCode/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/43Atharv/LeetCode/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/43Atharv/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
