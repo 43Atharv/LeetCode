@@ -46,4 +46,20 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/43Atharv/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/43Atharv/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/43Atharv/LeetCode/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/43Atharv/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/43Atharv/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/43Atharv/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/43Atharv/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
