@@ -19,6 +19,7 @@
 | [0013-roman-to-integer](https://github.com/43Atharv/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/43Atharv/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/43Atharv/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/43Atharv/LeetCode/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 | [0100-same-tree](https://github.com/43Atharv/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/43Atharv/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/43Atharv/LeetCode/tree/master/0112-path-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/43Atharv/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
