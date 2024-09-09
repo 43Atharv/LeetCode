@@ -84,4 +84,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/43Atharv/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/43Atharv/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
