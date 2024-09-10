@@ -44,6 +44,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/43Atharv/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/43Atharv/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/43Atharv/LeetCode/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/43Atharv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/43Atharv/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/43Atharv/LeetCode/tree/master/0136-single-number) |
 ## Binary Search
@@ -57,6 +58,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/43Atharv/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/43Atharv/LeetCode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/43Atharv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/43Atharv/LeetCode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
@@ -75,6 +77,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/43Atharv/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/43Atharv/LeetCode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/43Atharv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/43Atharv/LeetCode/tree/master/0112-path-sum) |
 ## Two Pointers
 |  |
@@ -88,4 +91,12 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/43Atharv/LeetCode/tree/master/0175-combine-two-tables) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/43Atharv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/43Atharv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
