@@ -14,6 +14,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/43Atharv/LeetCode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/43Atharv/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/43Atharv/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/43Atharv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/43Atharv/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/43Atharv/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/43Atharv/LeetCode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,8 +100,17 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/43Atharv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/43Atharv/LeetCode/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/43Atharv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/43Atharv/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/43Atharv/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
