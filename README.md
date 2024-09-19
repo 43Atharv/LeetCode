@@ -9,12 +9,14 @@
 | [0066-plus-one](https://github.com/43Atharv/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/43Atharv/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/43Atharv/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/43Atharv/LeetCode/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/43Atharv/LeetCode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/43Atharv/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/43Atharv/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/43Atharv/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/43Atharv/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/43Atharv/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/43Atharv/LeetCode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
