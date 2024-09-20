@@ -26,6 +26,7 @@
 | [0058-length-of-last-word](https://github.com/43Atharv/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/43Atharv/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/43Atharv/LeetCode/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/43Atharv/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -75,12 +76,14 @@
 | [0101-symmetric-tree](https://github.com/43Atharv/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/43Atharv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/43Atharv/LeetCode/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/43Atharv/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/43Atharv/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/43Atharv/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/43Atharv/LeetCode/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/43Atharv/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 | [0101-symmetric-tree](https://github.com/43Atharv/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/43Atharv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/43Atharv/LeetCode/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/43Atharv/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +137,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/43Atharv/LeetCode/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/43Atharv/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
 | ------- |
