@@ -10,6 +10,7 @@
 | [0067-add-binary](https://github.com/43Atharv/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/43Atharv/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/43Atharv/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/43Atharv/LeetCode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,11 +36,13 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/43Atharv/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/43Atharv/LeetCode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/43Atharv/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/43Atharv/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/43Atharv/LeetCode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
