@@ -32,11 +32,13 @@
 | [0021-merge-two-sorted-lists](https://github.com/43Atharv/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/43Atharv/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/43Atharv/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/43Atharv/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/43Atharv/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/43Atharv/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/43Atharv/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0125-valid-palindrome](https://github.com/43Atharv/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/43Atharv/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/43Atharv/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/43Atharv/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,4 +137,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/43Atharv/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/43Atharv/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
