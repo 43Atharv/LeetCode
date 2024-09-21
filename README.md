@@ -11,6 +11,7 @@
 | [0069-sqrtx](https://github.com/43Atharv/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/43Atharv/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/43Atharv/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/43Atharv/LeetCode/tree/master/0258-add-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/43Atharv/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/43Atharv/LeetCode/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/43Atharv/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/43Atharv/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
