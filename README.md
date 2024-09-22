@@ -12,6 +12,7 @@
 | [0202-happy-number](https://github.com/43Atharv/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/43Atharv/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/43Atharv/LeetCode/tree/master/0258-add-digits) |
+| [1642-water-bottles](https://github.com/43Atharv/LeetCode/tree/master/1642-water-bottles) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/43Atharv/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/43Atharv/LeetCode/tree/master/0258-add-digits) |
+| [1642-water-bottles](https://github.com/43Atharv/LeetCode/tree/master/1642-water-bottles) |
 ## Array
 |  |
 | ------- |
