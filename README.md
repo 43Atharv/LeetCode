@@ -76,6 +76,7 @@
 | [0136-single-number](https://github.com/43Atharv/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/43Atharv/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/43Atharv/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/43Atharv/LeetCode/tree/master/0228-summary-ranges) |
 | [1651-shuffle-string](https://github.com/43Atharv/LeetCode/tree/master/1651-shuffle-string) |
 ## Binary Search
 |  |
