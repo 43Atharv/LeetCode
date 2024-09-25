@@ -77,6 +77,7 @@
 | [0169-majority-element](https://github.com/43Atharv/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/43Atharv/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/43Atharv/LeetCode/tree/master/0228-summary-ranges) |
+| [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
 | [1651-shuffle-string](https://github.com/43Atharv/LeetCode/tree/master/1651-shuffle-string) |
 ## Binary Search
 |  |
@@ -121,6 +122,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/43Atharv/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/43Atharv/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/43Atharv/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/43Atharv/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/43Atharv/LeetCode/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -170,4 +173,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/43Atharv/LeetCode/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
