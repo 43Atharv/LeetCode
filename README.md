@@ -80,6 +80,7 @@
 | [0219-contains-duplicate-ii](https://github.com/43Atharv/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/43Atharv/LeetCode/tree/master/0228-summary-ranges) |
 | [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
+| [0729-my-calendar-i](https://github.com/43Atharv/LeetCode/tree/master/0729-my-calendar-i) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/43Atharv/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1651-shuffle-string](https://github.com/43Atharv/LeetCode/tree/master/1651-shuffle-string) |
 ## Binary Search
@@ -88,6 +89,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/43Atharv/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/43Atharv/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/43Atharv/LeetCode/tree/master/0069-sqrtx) |
+| [0729-my-calendar-i](https://github.com/43Atharv/LeetCode/tree/master/0729-my-calendar-i) |
 ## Tree
 |  |
 | ------- |
@@ -181,4 +183,16 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/43Atharv/LeetCode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/43Atharv/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/43Atharv/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
