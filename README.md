@@ -31,6 +31,7 @@
 | [0125-valid-palindrome](https://github.com/43Atharv/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/43Atharv/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/43Atharv/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0742-to-lower-case](https://github.com/43Atharv/LeetCode/tree/master/0742-to-lower-case) |
 | [1651-shuffle-string](https://github.com/43Atharv/LeetCode/tree/master/1651-shuffle-string) |
 ## Linked List
 |  |
