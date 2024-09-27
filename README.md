@@ -22,6 +22,7 @@
 | [0202-happy-number](https://github.com/43Atharv/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/43Atharv/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/43Atharv/LeetCode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0219-contains-duplicate-ii](https://github.com/43Atharv/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/43Atharv/LeetCode/tree/master/0228-summary-ranges) |
 | [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0729-my-calendar-i](https://github.com/43Atharv/LeetCode/tree/master/0729-my-calendar-i) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/43Atharv/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1651-shuffle-string](https://github.com/43Atharv/LeetCode/tree/master/1651-shuffle-string) |
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/43Atharv/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -195,4 +198,8 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/43Atharv/LeetCode/tree/master/0729-my-calendar-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
