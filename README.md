@@ -147,6 +147,7 @@
 | [0175-combine-two-tables](https://github.com/43Atharv/LeetCode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/43Atharv/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/43Atharv/LeetCode/tree/master/0197-rising-temperature) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/43Atharv/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/43Atharv/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Divide and Conquer
 |  |
