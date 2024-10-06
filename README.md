@@ -156,6 +156,7 @@
 | [0607-sales-person](https://github.com/43Atharv/LeetCode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/43Atharv/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/43Atharv/LeetCode/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/43Atharv/LeetCode/tree/master/0620-not-boring-movies) |
 | [1179-game-play-analysis-i](https://github.com/43Atharv/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1837-daily-leads-and-partners](https://github.com/43Atharv/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/43Atharv/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
