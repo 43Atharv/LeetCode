@@ -40,6 +40,7 @@
 | [0257-binary-tree-paths](https://github.com/43Atharv/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0742-to-lower-case](https://github.com/43Atharv/LeetCode/tree/master/0742-to-lower-case) |
 | [1651-shuffle-string](https://github.com/43Atharv/LeetCode/tree/master/1651-shuffle-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/43Atharv/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0067-add-binary](https://github.com/43Atharv/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/43Atharv/LeetCode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/43Atharv/LeetCode/tree/master/1642-water-bottles) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/43Atharv/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/43Atharv/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/43Atharv/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Number Theory
 |  |
 | ------- |
