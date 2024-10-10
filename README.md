@@ -170,6 +170,7 @@
 | [0627-swap-salary](https://github.com/43Atharv/LeetCode/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/43Atharv/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/43Atharv/LeetCode/tree/master/1161-project-employees-i) |
+| [1174-sales-analysis-iii](https://github.com/43Atharv/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/43Atharv/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1837-daily-leads-and-partners](https://github.com/43Atharv/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/43Atharv/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
