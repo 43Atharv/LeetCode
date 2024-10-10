@@ -94,6 +94,7 @@
 | [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0729-my-calendar-i](https://github.com/43Atharv/LeetCode/tree/master/0729-my-calendar-i) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/43Atharv/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1002-maximum-width-ramp](https://github.com/43Atharv/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1651-shuffle-string](https://github.com/43Atharv/LeetCode/tree/master/1651-shuffle-string) |
 ## Binary Search
 |  |
@@ -213,6 +214,7 @@
 | [0234-palindrome-linked-list](https://github.com/43Atharv/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/43Atharv/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/43Atharv/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/43Atharv/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/43Atharv/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Number Theory
@@ -241,4 +243,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1002-maximum-width-ramp](https://github.com/43Atharv/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
