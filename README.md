@@ -26,6 +26,7 @@
 | [0219-contains-duplicate-ii](https://github.com/43Atharv/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/43Atharv/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/43Atharv/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/43Atharv/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1002-maximum-width-ramp](https://github.com/43Atharv/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1651-shuffle-string](https://github.com/43Atharv/LeetCode/tree/master/1651-shuffle-string) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/43Atharv/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,4 +246,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/43Atharv/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/43Atharv/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
