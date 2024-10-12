@@ -98,6 +98,7 @@
 | [1002-maximum-width-ramp](https://github.com/43Atharv/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1651-shuffle-string](https://github.com/43Atharv/LeetCode/tree/master/1651-shuffle-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/43Atharv/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/43Atharv/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0234-palindrome-linked-list](https://github.com/43Atharv/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/43Atharv/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/43Atharv/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0242-valid-anagram](https://github.com/43Atharv/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/43Atharv/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/43Atharv/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
 | ------- |
@@ -230,6 +233,7 @@
 | [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/43Atharv/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/43Atharv/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/43Atharv/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Design
 |  |
 | ------- |
@@ -251,4 +255,9 @@
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/43Atharv/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/43Atharv/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Prefix Sum
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/43Atharv/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
