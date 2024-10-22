@@ -16,6 +16,7 @@
 | [0258-add-digits](https://github.com/43Atharv/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/43Atharv/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/43Atharv/LeetCode/tree/master/0292-nim-game) |
 | [1642-water-bottles](https://github.com/43Atharv/LeetCode/tree/master/1642-water-bottles) |
 ## Hash Table
 |  |
@@ -282,4 +283,12 @@
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/43Atharv/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/43Atharv/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/43Atharv/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
