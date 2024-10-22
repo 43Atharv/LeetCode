@@ -14,6 +14,7 @@
 | [0202-happy-number](https://github.com/43Atharv/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/43Atharv/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/43Atharv/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/43Atharv/LeetCode/tree/master/1642-water-bottles) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@
 | [0205-isomorphic-strings](https://github.com/43Atharv/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/43Atharv/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/43Atharv/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/43Atharv/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## String
@@ -67,6 +69,7 @@
 | [0190-reverse-bits](https://github.com/43Atharv/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/43Atharv/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/43Atharv/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/43Atharv/LeetCode/tree/master/0461-hamming-distance) |
 ## Simulation
 |  |
@@ -91,6 +94,7 @@
 | [0169-majority-element](https://github.com/43Atharv/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/43Atharv/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/43Atharv/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0729-my-calendar-i](https://github.com/43Atharv/LeetCode/tree/master/0729-my-calendar-i) |
@@ -105,6 +109,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/43Atharv/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/43Atharv/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/43Atharv/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/43Atharv/LeetCode/tree/master/0729-my-calendar-i) |
 ## Tree
 |  |
@@ -212,6 +217,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/43Atharv/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/43Atharv/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/43Atharv/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/43Atharv/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
