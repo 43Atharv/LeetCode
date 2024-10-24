@@ -200,6 +200,7 @@
 | [1811-fix-names-in-a-table](https://github.com/43Atharv/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/43Atharv/LeetCode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/43Atharv/LeetCode/tree/master/1837-daily-leads-and-partners) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/43Atharv/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/43Atharv/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/43Atharv/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2041-the-latest-login-in-2020](https://github.com/43Atharv/LeetCode/tree/master/2041-the-latest-login-in-2020) |
