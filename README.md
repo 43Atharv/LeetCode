@@ -192,6 +192,7 @@
 | [1258-article-views-i](https://github.com/43Atharv/LeetCode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/43Atharv/LeetCode/tree/master/1301-reformat-department-table) |
 | [1415-students-and-examinations](https://github.com/43Atharv/LeetCode/tree/master/1415-students-and-examinations) |
+| [1452-restaurant-growth](https://github.com/43Atharv/LeetCode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/43Atharv/LeetCode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/43Atharv/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/43Atharv/LeetCode/tree/master/1541-top-travellers) |
