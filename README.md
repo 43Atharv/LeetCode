@@ -196,6 +196,7 @@
 | [1452-restaurant-growth](https://github.com/43Atharv/LeetCode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/43Atharv/LeetCode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/43Atharv/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1523-capital-gainloss](https://github.com/43Atharv/LeetCode/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/43Atharv/LeetCode/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/43Atharv/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/43Atharv/LeetCode/tree/master/1670-patients-with-a-condition) |
