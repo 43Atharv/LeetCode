@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/43Atharv/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/43Atharv/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/43Atharv/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/43Atharv/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/43Atharv/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/43Atharv/LeetCode/tree/master/0069-sqrtx) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/43Atharv/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/43Atharv/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/43Atharv/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/43Atharv/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/43Atharv/LeetCode/tree/master/0125-valid-palindrome) |
@@ -79,6 +81,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/43Atharv/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/43Atharv/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/43Atharv/LeetCode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/43Atharv/LeetCode/tree/master/1642-water-bottles) |
