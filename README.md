@@ -19,6 +19,7 @@
 | [0263-ugly-number](https://github.com/43Atharv/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/43Atharv/LeetCode/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/43Atharv/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1642-water-bottles](https://github.com/43Atharv/LeetCode/tree/master/1642-water-bottles) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@
 | [0035-search-insert-position](https://github.com/43Atharv/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/43Atharv/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/43Atharv/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0729-my-calendar-i](https://github.com/43Atharv/LeetCode/tree/master/0729-my-calendar-i) |
 ## Tree
 |  |
