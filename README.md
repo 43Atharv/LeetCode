@@ -204,6 +204,7 @@
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/43Atharv/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/43Atharv/LeetCode/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/43Atharv/LeetCode/tree/master/1268-market-analysis-i) |
+| [1278-product-price-at-a-given-date](https://github.com/43Atharv/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1301-reformat-department-table](https://github.com/43Atharv/LeetCode/tree/master/1301-reformat-department-table) |
 | [1415-students-and-examinations](https://github.com/43Atharv/LeetCode/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/43Atharv/LeetCode/tree/master/1452-restaurant-growth) |
