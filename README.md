@@ -33,6 +33,7 @@
 | [0242-valid-anagram](https://github.com/43Atharv/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0782-jewels-and-stones](https://github.com/43Atharv/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/43Atharv/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## String
 |  |
@@ -48,6 +49,7 @@
 | [0242-valid-anagram](https://github.com/43Atharv/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/43Atharv/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0742-to-lower-case](https://github.com/43Atharv/LeetCode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/43Atharv/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/43Atharv/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1651-shuffle-string](https://github.com/43Atharv/LeetCode/tree/master/1651-shuffle-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/43Atharv/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
