@@ -228,6 +228,7 @@
 | [1948-rearrange-products-table](https://github.com/43Atharv/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/43Atharv/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/43Atharv/LeetCode/tree/master/2057-count-salary-categories) |
+| [2110-employees-with-missing-information](https://github.com/43Atharv/LeetCode/tree/master/2110-employees-with-missing-information) |
 ## Divide and Conquer
 |  |
 | ------- |
