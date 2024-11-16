@@ -230,6 +230,7 @@
 | [2041-the-latest-login-in-2020](https://github.com/43Atharv/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/43Atharv/LeetCode/tree/master/2057-count-salary-categories) |
 | [2110-employees-with-missing-information](https://github.com/43Atharv/LeetCode/tree/master/2110-employees-with-missing-information) |
+| [3530-odd-and-even-transactions](https://github.com/43Atharv/LeetCode/tree/master/3530-odd-and-even-transactions) |
 ## Divide and Conquer
 |  |
 | ------- |
