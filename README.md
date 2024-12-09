@@ -82,6 +82,7 @@
 | [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/43Atharv/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/43Atharv/LeetCode/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/43Atharv/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 ## Simulation
 |  |
 | ------- |
