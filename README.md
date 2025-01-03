@@ -32,6 +32,7 @@
 | [0219-contains-duplicate-ii](https://github.com/43Atharv/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/43Atharv/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/43Atharv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/43Atharv/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/43Atharv/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -109,6 +110,7 @@
 | [0219-contains-duplicate-ii](https://github.com/43Atharv/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/43Atharv/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/43Atharv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/43Atharv/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0729-my-calendar-i](https://github.com/43Atharv/LeetCode/tree/master/0729-my-calendar-i) |
@@ -124,6 +126,7 @@
 | [0035-search-insert-position](https://github.com/43Atharv/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/43Atharv/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/43Atharv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/43Atharv/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0729-my-calendar-i](https://github.com/43Atharv/LeetCode/tree/master/0729-my-calendar-i) |
 ## Tree
@@ -164,6 +167,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/43Atharv/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/43Atharv/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/43Atharv/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/43Atharv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/43Atharv/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/43Atharv/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -256,6 +260,7 @@
 | [0169-majority-element](https://github.com/43Atharv/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/43Atharv/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/43Atharv/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/43Atharv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/43Atharv/LeetCode/tree/master/0455-assign-cookies) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/43Atharv/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/43Atharv/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
